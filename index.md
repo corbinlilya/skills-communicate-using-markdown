@@ -15,3 +15,7 @@ public class Example {
   
 }
 ```
+
+- [ ] Check box 1
+- [ ] Do something box 2
+- [ ] Checking for 3
