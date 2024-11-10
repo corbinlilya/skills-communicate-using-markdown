@@ -5,3 +5,13 @@
 Added test headers for index.md
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+public class Example {
+  // Constructor for example class.
+  public Example(){
+
+  }
+  
+}
+```
