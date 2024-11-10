@@ -3,3 +3,5 @@
 ### Test Header 3
 
 Added test headers for index.md
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
